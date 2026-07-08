@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Common",
+					"jsonFile" : "directory-Common-Debug-93d5e0f2d095a202fb49.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Common"
+				},
+				{
+					"build" : "GroundStation",
+					"jsonFile" : "directory-GroundStation-Debug-ad1921edbf8d0a1ee48f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "GroundStation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Rover",
+					"jsonFile" : "directory-Rover-Debug-d7bd987d6de1d0eb8206.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Rover",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "UnderwaterROV",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "GroundStation::@7f8a5e495e566ddff661",
+					"jsonFile" : "target-GroundStation-Debug-cf5949dfebb889c9dfd1.json",
+					"name" : "GroundStation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Rover::@1ea431435f4ad02b9e13",
+					"jsonFile" : "target-Rover-Debug-d0467a492531621e339e.json",
+					"name" : "Rover",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/AJ/Documents/UnderwaterROV/out/build/x64-Debug",
+		"source" : "C:/Users/AJ/Documents/UnderwaterROV"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

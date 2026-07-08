@@ -1,0 +1,18 @@
+# ninja log v6
+6	731	8051865631316871	GroundStation/CMakeFiles/GroundStation.dir/src/main.cpp.obj	3bd177f9105df6eb
+733	1050	8051865638660623	GroundStation/GroundStation.exe	28016a86a9137a8a
+22	751	8051865765563390	Rover/CMakeFiles/Rover.dir/src/main.cpp.obj	f8bd8319d887bb10
+752	1049	8051865772906721	Rover/Rover.exe	d257942a2d4afa49
+28	250	8051882384338698	build.ninja	9124582175203f81
+16	4662	8051882407929737	GroundStation/CMakeFiles/GroundStation.dir/src/main.cpp.obj	1198cd966333f709
+4669	4937	8051882454541805	GroundStation/GroundStation.exe	28016a86a9137a8a
+28	4639	8051882550746467	Rover/CMakeFiles/Rover.dir/src/main.cpp.obj	10448b1754430a18
+4641	4888	8051882596842271	Rover/Rover.exe	d257942a2d4afa49
+38	5349	8051883489806180	GroundStation/CMakeFiles/GroundStation.dir/src/main.cpp.obj	1198cd966333f709
+5350	5605	8051883543008215	GroundStation/GroundStation.exe	28016a86a9137a8a
+37	4829	8051883681542929	Rover/CMakeFiles/Rover.dir/src/main.cpp.obj	10448b1754430a18
+4831	5069	8051883729498284	Rover/Rover.exe	d257942a2d4afa49
+35	4670	8051886587939655	Rover/CMakeFiles/Rover.dir/src/main.cpp.obj	10448b1754430a18
+4671	4916	8051886634343066	Rover/Rover.exe	d257942a2d4afa49
+36	5141	8051886833869132	GroundStation/CMakeFiles/GroundStation.dir/src/main.cpp.obj	1198cd966333f709
+5142	5428	8051886884804736	GroundStation/GroundStation.exe	28016a86a9137a8a
